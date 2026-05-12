@@ -27,7 +27,7 @@ a {
     position: relative;
     height: 100vh;
     min-height: 800px;
-    background: url('photo_2026-05-11_12-08-29.jpg') center 30%/cover no-repeat;
+    background: url('/image/photo_2026-05-11_12-08-29.jpg') center 30%/cover no-repeat;
     display: flex;
     flex-direction: column;
 }
